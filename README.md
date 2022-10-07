@@ -1,3 +1,3 @@
-# Inheritance
+# Inheritance <br />
 Java trials
 InheritanceTrialOne
