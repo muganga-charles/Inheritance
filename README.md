@@ -1,2 +1,3 @@
 # Inheritance
 Java trials
+InheritanceTrialOne
